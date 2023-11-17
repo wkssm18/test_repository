@@ -1,6 +1,6 @@
 # READ
 
-![can you see the image ](/images/image_1)
+![can you see the image ](/images/image_1.png)
 
 ## README description
 
